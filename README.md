@@ -19,4 +19,4 @@ Follow these steps to set up and run the project locally:
 1. Clone the repository:
 
    ```sh
-   git clone https://github.com/yourusername/wagtail-project.git
+   git clone https://github.com/mahinhasan/wagtail-blog.git
